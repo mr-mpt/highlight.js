@@ -1,4 +1,41 @@
-## Version 11.10.0 (Next Release)
+## Version 11.11.0
+
+CAVEATS / POTENTIALLY BREAKING CHANGES
+
+- Nothing yet.
+
+
+Core Grammars:
+
+- fix(makefile) - allow strings inside `$()` expressions [aneesh98][]
+- enh(css) add all properties listed on MDN (96 additions including `anchor-name`, `aspect-ratio`, `backdrop-filter`, `container`, `margin-trim`, `place-content`, `scroll-timeline`, ...) [BaliBalo][]
+- enh(erlang) OTP 27 triple-quoted strings [nixxquality][]
+- enh(erlang) OTP 27 doc attribute [nixxquality][]
+- enh(erlang) OTP 27 Sigil type [nixxquality][]
+- enh(erlang) OTP25/27 maybe statement [nixxquality][]
+
+New Grammars:
+
+- Nothing yet.
+
+Developer Tools:
+
+- Nothing yet.
+
+Themes:
+
+- Added `Rosé Pine` theme [William Wilkinson][]
+
+CONTRIBUTORS
+
+[Josh Goebel]: https://github.com/joshgoebel
+[aneesh98]: https://github.com/aneesh98
+[BaliBalo]: https://github.com/BaliBalo
+[William Wilkinson]: https://github.com/wilkinson4
+[nixxquality]: https://github.com/nixxquality
+
+
+## Version 11.10.0
 
 CAVEATS / POTENTIALLY BREAKING CHANGES
 
@@ -72,7 +109,7 @@ Themes:
 [Melkor-1]: https://github.com/Melkor-1
 [PeteLomax]: https://github.com/petelomax
 [gnysek]: https://github.com/gnysek
-[Eisenwave]: https://github.com/Eisenwave 
+[Eisenwave]: https://github.com/Eisenwave
 [Aral Balkan]: https://github.com/aral
 [Lê Duy Quang]: https://github.com/leduyquang753
 [Mohamed Ali]: https://github.com/MohamedAli00949
